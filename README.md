@@ -1,0 +1,1 @@
+Jest to projekt zrealizowany w oparciu o Arduino oraz LabVIEW. Kamera jest w pełni funkcjonalna, posiada czujnik odległości z opcją wyświetlania i buzzer emitujący dźwięk o różnym natężeniu w zależności od odległośći
