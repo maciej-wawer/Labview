@@ -23,3 +23,5 @@ Projekt przedstawia prototyp systemu wspomagania cofania z wykorzystaniem środo
 - Czujnik odległości
 
 - Moduł kamery
+
+<img width="1915" height="1146" alt="Przechwytywanie" src="https://github.com/user-attachments/assets/0302a5d9-5afc-48f8-9f62-70539ab261d1" />
